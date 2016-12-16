@@ -1,0 +1,22 @@
+{
+  "name": "spa-generator",
+  "description": "React Webpack SPA Project Generator",
+  "main": "",
+  "authors": [
+    "HMJ"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "webpack",
+    "react",
+    "SPA"
+  ],
+  "homepage": "https://github.com/JieSwift/SPA-Generator.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

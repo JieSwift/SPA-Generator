@@ -1,0 +1,15 @@
+{
+  "presets": [ "es2015", "stage-0", "react"],
+
+  /* if you want to use babel runtime, uncomment the following line */
+  // "plugins": ["transform-runtime"],
+  //在开发的时候才启用HMR和Catch Error
+  "env": {
+    "build": {
+      "optional": ["optimisation", "minification"]
+    },
+    "development": {
+     "presets": ["react-hmre"]
+    }
+  }
+}
