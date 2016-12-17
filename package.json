@@ -30,11 +30,12 @@
   "homepage": "https://github.com/JieSwift/SPA-Generator#readme",
   "dependencies": {
     "babel-runtime": "6.x",
+    "express": "^4.14.0",
     "postcss-loader": "^1.2.1",
     "postcss-modules-values": "^1.2.2",
     "react": "15.x",
     "react-dom": "15.x",
-    "react-router": "^3.0.0",
+    "react-router": "^3.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.5.4",
